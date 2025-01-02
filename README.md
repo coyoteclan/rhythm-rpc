@@ -8,7 +8,7 @@ Uses a modified version of the discord-rpc python module.
 
 ## Installation
 
-Download the code as zip file and copy the `rhythm-rpc` folder to Rhythmbox plugins folder.
+Download the code as zip file and copy the `rhythm-rpc` folder to Rhythmbox plugins folder. 
 Enable **Rhythm-RPC** in Preferences -> Plugins.
 
 ## Credits
