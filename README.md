@@ -1,4 +1,4 @@
-# rhythm-rpc
+# rhythm-rpc <img src=rhythm-rpc/icon.png align=right/>
 Discord Rich Presence for Rhythmbox
 
 ## Installation
@@ -8,4 +8,4 @@ Enable **Rhythm-RPC** in Preferences -> Plugins.
 
 ## Preview
 
-<img src=preview.gif>
+<img src=preview.gif/>
