@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=rhythm-rpc
+IAge=2
+Name=Rhythm-RPC
+Description=Discord Rich Presence for Rhythmbox
+Authors=Kazam (kazam0180@discord)
+Copyright=Copyright © 2024 Kazam
+Website=https://wolves.rf.gd/
