@@ -1,5 +1,6 @@
 # rhythm-rpc <img src=rhythm-rpc/icon.png align=right width=128 height=128/>
-Discord Rich Presence for Rhythmbox
+Discord Rich Presence for Rhythmbox.
+
 Uses a modified version of the discord-rpc python module.
 
 ## Preview
