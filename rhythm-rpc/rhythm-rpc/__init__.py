@@ -1,4 +1,4 @@
-from gi.repository import GObject, RB, Peas, GLib
+from gi.repository import GObject, RB, Peas
 
 import threading
 from thirdparty.discordrpc import RPC
