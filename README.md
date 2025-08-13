@@ -1,3 +1,7 @@
+# INFO
+Migrated to GitLab:
+https://gitlab.com/kazam0180/rhythm-rpc
+
 # rhythm-rpc <img src=rhythm-rpc/icon.png align=right width=128 height=128/>
 Discord Rich Presence for Rhythmbox.
 
